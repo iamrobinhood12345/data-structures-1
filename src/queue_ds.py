@@ -1,12 +1,3 @@
-"""This module defines Queue Data Structure.
-
-A Queue works based on the FIFO principle which is based in accounting and it
-describes the method of the first item/person/inventory to enter something
-to also be the first to leave it.
-
-An example would be a line in a bank where the first customer in the line will
-be the first one served and thus the first to exit the bank."""
-
 from dbl_linked_list import DblLinkedList
 
 

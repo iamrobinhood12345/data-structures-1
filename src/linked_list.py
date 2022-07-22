@@ -1,4 +1,3 @@
-"""Creating a Linked List Data Structure.  CF 401 Python Week 2 assignment."""
 
 
 class Node(object):

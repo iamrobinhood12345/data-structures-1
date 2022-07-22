@@ -1,12 +1,8 @@
-"""This module defines the Stack data structure."""
-
 from linked_list import Linked_List
 
 
 class Stack(object):
-    """The stack data structure is a composition of the Linked List structure."""
     def __init__(self, iterable=None):
-        """Initialize stack as a Linked_List-esque object."""
         self._container = Linked_List(iterable)
 
     def push(self, val):
